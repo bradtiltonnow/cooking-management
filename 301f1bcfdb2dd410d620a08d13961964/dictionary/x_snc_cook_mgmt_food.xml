@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Food" max_length="40" name="x_snc_cook_mgmt_food" sizeclass="4" type="collection">
+        <element choice="1" label="Category" max_length="40" name="category" type="choice">
+            <choice/>
+        </element>
+        <element display="true" label="Name" max_length="100" name="name" type="string"/>
+    </element>
+</database>

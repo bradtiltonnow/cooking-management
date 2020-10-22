@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
+    <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
+        <item_stream display_value="Fuel Item Stream">6dc7a38bdb6dd410d620a08d13961921</item_stream>
+        <segment display_value="Fuel Item Stream Segment">69c7a38bdb6dd410d620a08d13961921</segment>
+        <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-26 21:18:12</sys_created_on>
+        <sys_id>61c7a38bdb6dd410d620a08d13961922</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Cooking Management" source="x_snc_cook_mgmt">301f1bcfdb2dd410d620a08d13961964</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cooking Management">301f1bcfdb2dd410d620a08d13961964</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_61c7a38bdb6dd410d620a08d13961922</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-26 21:18:12</sys_updated_on>
+    </sys_sg_item_stream_m2m_segment>
+</record_update>

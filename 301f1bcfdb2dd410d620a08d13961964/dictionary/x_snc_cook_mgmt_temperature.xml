@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Temperature" max_length="40" name="x_snc_cook_mgmt_temperature" sizeclass="22" type="collection">
+        <element label="Cook" max_length="32" name="cook" reference="x_snc_cook_mgmt_cook" type="reference"/>
+        <element label="Log" max_length="32" name="log" reference="x_snc_cook_mgmt_log" type="reference"/>
+        <element display="true" label="Name" max_length="100" name="name" type="string"/>
+        <element label="Port" max_length="40" name="port" type="string"/>
+        <element label="Temperature" max_length="40" name="temperature" type="integer"/>
+        <element label="Thermometer" max_length="32" name="thermometer" reference="x_snc_cook_mgmt_thermometer" type="reference"/>
+        <index name="index">
+            <element name="log"/>
+        </index>
+        <index name="index2">
+            <element name="cook"/>
+        </index>
+        <index name="index3">
+            <element name="thermometer"/>
+        </index>
+    </element>
+</database>

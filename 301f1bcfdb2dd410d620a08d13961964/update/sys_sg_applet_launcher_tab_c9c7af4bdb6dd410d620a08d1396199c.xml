@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="Cooking Management">85c7af4bdb6dd410d620a08d1396199b</applet_launcher>
+        <icon display_value="Home Cooking Management">0dc7af4bdb6dd410d620a08d1396199c</icon>
+        <label>Cooks</label>
+        <roles>x_snc_cook_mgmt.admin,x_snc_cook_mgmt.user</roles>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-26 21:18:10</sys_created_on>
+        <sys_id>c9c7af4bdb6dd410d620a08d1396199c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Cooks</sys_name>
+        <sys_package display_value="Cooking Management" source="x_snc_cook_mgmt">301f1bcfdb2dd410d620a08d13961964</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cooking Management">301f1bcfdb2dd410d620a08d13961964</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_c9c7af4bdb6dd410d620a08d1396199c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-02 15:16:26</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>

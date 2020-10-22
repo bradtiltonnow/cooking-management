@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_related_list_map">
+    <sys_sg_related_list_map action="INSERT_OR_UPDATE">
+        <context_field/>
+        <destination_screen display_value="Cook Log">5ae96cc51b8fd8901363ff37dc4bcbd8</destination_screen>
+        <related_list_screen display_value="Related List">180bacc51b8fd8901363ff37dc4bcbb6</related_list_screen>
+        <relationship>x_snc_cook_mgmt_log.cook</relationship>
+        <sys_class_name>sys_sg_related_list_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-02 16:02:08</sys_created_on>
+        <sys_id>a68bacc51b8fd8901363ff37dc4bcbcf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>5ae96cc51b8fd8901363ff37dc4bcbd8</sys_name>
+        <sys_package display_value="Cooking Management" source="x_snc_cook_mgmt">301f1bcfdb2dd410d620a08d13961964</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cooking Management">301f1bcfdb2dd410d620a08d13961964</sys_scope>
+        <sys_update_name>sys_sg_related_list_map_a68bacc51b8fd8901363ff37dc4bcbcf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-02 16:02:08</sys_updated_on>
+    </sys_sg_related_list_map>
+</record_update>

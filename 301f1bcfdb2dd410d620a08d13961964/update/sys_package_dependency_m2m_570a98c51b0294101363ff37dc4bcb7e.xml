@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">4654a4841b2200101363ff37dc4bcb87</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-26 20:57:37</sys_created_on>
+        <sys_id>570a98c51b0294101363ff37dc4bcb7e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Cooking Management" source="x_snc_cook_mgmt">301f1bcfdb2dd410d620a08d13961964</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-26 20:57:37</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

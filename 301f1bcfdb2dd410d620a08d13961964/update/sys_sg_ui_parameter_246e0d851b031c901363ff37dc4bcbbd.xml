@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="INSERT_OR_UPDATE">
+        <button display_value="New Button (Checkpoint)">87dd85451b031c901363ff37dc4bcb72</button>
+        <button_parent_table/>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>none</default_value_type>
+        <field_name>category</field_name>
+        <input_source>user</input_source>
+        <input_style>inline</input_style>
+        <input_type>list</input_type>
+        <mandatory>true</mandatory>
+        <max_entries/>
+        <multi_entry>false</multi_entry>
+        <multi_select>false</multi_select>
+        <name>Category</name>
+        <order>100</order>
+        <parameter_type>button</parameter_type>
+        <placeholder/>
+        <screen/>
+        <search_type>starts_with</search_type>
+        <source_field/>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-02 18:36:17</sys_created_on>
+        <sys_id>246e0d851b031c901363ff37dc4bcbbd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Category</sys_name>
+        <sys_package display_value="Cooking Management" source="x_snc_cook_mgmt">301f1bcfdb2dd410d620a08d13961964</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cooking Management">301f1bcfdb2dd410d620a08d13961964</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_246e0d851b031c901363ff37dc4bcbbd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-02 18:36:17</sys_updated_on>
+        <table_name>x_snc_cook_mgmt_log</table_name>
+    </sys_sg_ui_parameter>
+    <sys_translated_text action="delete_multiple" query="documentkey=246e0d851b031c901363ff37dc4bcbbd"/>
+</record_update>

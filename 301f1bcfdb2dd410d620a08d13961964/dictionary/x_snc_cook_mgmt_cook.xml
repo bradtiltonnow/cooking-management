@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Cook" max_length="40" name="x_snc_cook_mgmt_cook" sizeclass="20" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Ambient temp" max_length="40" name="ambient_temp" type="integer"/>
+        <element attributes="encode_utf8=false" label="Cooker" max_length="32" name="cooker" reference="x_snc_cook_mgmt_cooker" type="reference"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Food" max_length="32" name="food" reference="x_snc_cook_mgmt_food" type="reference"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Fuel" max_length="32" name="fuel" reference="x_snc_cook_mgmt_fuel" type="glide_list"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Recipe" max_length="32" name="recipe" reference="x_snc_cook_mgmt_recipe" type="reference"/>
+        <element attributes="encode_utf8=false" label="Thermometer" max_length="32" name="thermometer" reference="x_snc_cook_mgmt_thermometer" type="reference"/>
+    </element>
+</database>

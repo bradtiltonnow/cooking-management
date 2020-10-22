@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
+    <sys_sg_item_stream action="INSERT_OR_UPDATE">
+        <data_item display_value="Cooking Management Active Cooks">45c7638bdb6dd410d620a08d139619ba</data_item>
+        <interleaved_field/>
+        <name>Cook Item Stream</name>
+        <sys_class_name>sys_sg_item_stream</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-26 21:18:10</sys_created_on>
+        <sys_id>99c7638bdb6dd410d620a08d139619bf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cook Item Stream</sys_name>
+        <sys_package display_value="Cooking Management" source="x_snc_cook_mgmt">301f1bcfdb2dd410d620a08d13961964</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cooking Management">301f1bcfdb2dd410d620a08d13961964</sys_scope>
+        <sys_update_name>sys_sg_item_stream_99c7638bdb6dd410d620a08d139619bf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-26 21:18:10</sys_updated_on>
+        <table/>
+    </sys_sg_item_stream>
+</record_update>

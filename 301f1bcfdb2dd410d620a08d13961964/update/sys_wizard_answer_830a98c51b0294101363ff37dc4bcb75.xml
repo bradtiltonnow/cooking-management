@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Cook</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Cook</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">0a54a4841b2200101363ff37dc4bcb89</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-14 21:42:55</sys_created_on>
+        <sys_id>830a98c51b0294101363ff37dc4bcb75</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cook</sys_name>
+        <sys_package display_value="devblog-latest-incident" source="x_85636_devblog_1">5bc438781bbd98101363ff37dc4bcb65</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cooking Management">301f1bcfdb2dd410d620a08d13961964</sys_scope>
+        <sys_update_name>sys_wizard_answer_830a98c51b0294101363ff37dc4bcb75</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-14 21:42:55</sys_updated_on>
+        <table/>
+        <target_url>x_snc_cook_mgmt_cook.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

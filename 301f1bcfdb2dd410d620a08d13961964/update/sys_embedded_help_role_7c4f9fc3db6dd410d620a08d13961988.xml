@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_snc_cook_mgmt.user" name="x_snc_cook_mgmt.user">f84f9fc3db6dd410d620a08d13961986</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-26 20:41:00</sys_created_on>
+        <sys_id>7c4f9fc3db6dd410d620a08d13961988</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>f84f9fc3db6dd410d620a08d13961986</sys_name>
+        <sys_package display_value="Cooking Management" source="x_snc_cook_mgmt">301f1bcfdb2dd410d620a08d13961964</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cooking Management">301f1bcfdb2dd410d620a08d13961964</sys_scope>
+        <sys_update_name>sys_embedded_help_role_7c4f9fc3db6dd410d620a08d13961988</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-26 20:41:00</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

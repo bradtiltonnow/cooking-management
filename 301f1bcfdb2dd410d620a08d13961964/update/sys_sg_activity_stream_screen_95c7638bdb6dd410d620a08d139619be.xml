@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_activity_stream_screen">
+    <sys_sg_activity_stream_screen action="INSERT_OR_UPDATE">
+        <add_additional_comment_button>true</add_additional_comment_button>
+        <add_attachment_button>true</add_attachment_button>
+        <add_work_note_button>true</add_work_note_button>
+        <available_offline>false</available_offline>
+        <description> Cook</description>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-File">4dc7af4bdb6dd410d620a08d1396199a</icon>
+        <name>Activity Stream</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_activity_stream_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-26 21:18:10</sys_created_on>
+        <sys_id>95c7638bdb6dd410d620a08d139619be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Activity Stream</sys_name>
+        <sys_package display_value="Cooking Management" source="x_snc_cook_mgmt">301f1bcfdb2dd410d620a08d13961964</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cooking Management">301f1bcfdb2dd410d620a08d13961964</sys_scope>
+        <sys_update_name>sys_sg_activity_stream_screen_95c7638bdb6dd410d620a08d139619be</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-26 21:18:10</sys_updated_on>
+        <table>x_snc_cook_mgmt_cook</table>
+    </sys_sg_activity_stream_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=95c7638bdb6dd410d620a08d139619be"/>
+</record_update>

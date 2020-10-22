@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (Checkpoint)">87dd85451b031c901363ff37dc4bcb72</button>
+        <item_parameter display_value="Cook">762dc9451b031c901363ff37dc4bcb0a</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-02 18:39:02</sys_created_on>
+        <sys_id>6e6f49c51b031c901363ff37dc4bcb4a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>762dc9451b031c901363ff37dc4bcb0a</sys_name>
+        <sys_package display_value="Cooking Management" source="x_snc_cook_mgmt">301f1bcfdb2dd410d620a08d13961964</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cooking Management">301f1bcfdb2dd410d620a08d13961964</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_6e6f49c51b031c901363ff37dc4bcb4a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-02 18:39:02</sys_updated_on>
+        <ui_parameter display_value="Cook">fedec1851b031c901363ff37dc4bcbb3</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

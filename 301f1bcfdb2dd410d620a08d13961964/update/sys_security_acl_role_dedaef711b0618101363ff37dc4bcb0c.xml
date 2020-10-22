@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-17 20:50:37</sys_created_on>
+        <sys_id>dedaef711b0618101363ff37dc4bcb0c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_cook_mgmt_thermometer.x_snc_cook_mgmt.thermometer_user</sys_name>
+        <sys_package display_value="Cooking Management" source="x_snc_cook_mgmt">301f1bcfdb2dd410d620a08d13961964</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cooking Management">301f1bcfdb2dd410d620a08d13961964</sys_scope>
+        <sys_security_acl display_value="x_snc_cook_mgmt_thermometer">52daef711b0618101363ff37dc4bcb0a</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_dedaef711b0618101363ff37dc4bcb0c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-17 20:50:37</sys_updated_on>
+        <sys_user_role display_value="x_snc_cook_mgmt.thermometer_user" name="x_snc_cook_mgmt.thermometer_user">c6da63bd1bc218101363ff37dc4bcb3d</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

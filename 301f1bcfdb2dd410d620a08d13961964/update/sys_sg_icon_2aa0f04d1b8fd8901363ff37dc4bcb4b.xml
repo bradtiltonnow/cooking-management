@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon>{"Shape":"Circle","FontName":"now-mobile-icons-ALPnavbar","Value":"f15c","Name":"icon-File_Solid","FontColor":"#ffffff","BackgroundColor":"#ffffff","type":"user"}</icon>
+        <name>User Icon</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-02 16:24:31</sys_created_on>
+        <sys_id>2aa0f04d1b8fd8901363ff37dc4bcb4b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>User Icon</sys_name>
+        <sys_package display_value="Cooking Management" source="x_snc_cook_mgmt">301f1bcfdb2dd410d620a08d13961964</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cooking Management">301f1bcfdb2dd410d620a08d13961964</sys_scope>
+        <sys_update_name>sys_sg_icon_2aa0f04d1b8fd8901363ff37dc4bcb4b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-02 16:24:31</sys_updated_on>
+        <type>font</type>
+    </sys_sg_icon>
+</record_update>

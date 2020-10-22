@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Thermometer" max_length="40" name="x_snc_cook_mgmt_thermometer" sizeclass="1" type="collection">
+        <element label="ID" max_length="100" name="id" type="string"/>
+        <element display="true" label="Name" max_length="100" name="name" type="string"/>
+        <element label="Ports" max_length="40" name="ports" type="integer"/>
+    </element>
+</database>

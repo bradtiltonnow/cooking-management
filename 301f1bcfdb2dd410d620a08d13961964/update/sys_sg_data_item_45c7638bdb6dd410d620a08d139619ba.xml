@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>Cooking Management Active Cooks</name>
+        <query_condition table="x_snc_cook_mgmt_cook">state=2<item display_value="Work in Progress" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="2"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-26 21:18:10</sys_created_on>
+        <sys_id>45c7638bdb6dd410d620a08d139619ba</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Cooking Management Active Cooks</sys_name>
+        <sys_package display_value="Cooking Management" source="x_snc_cook_mgmt">301f1bcfdb2dd410d620a08d13961964</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cooking Management">301f1bcfdb2dd410d620a08d13961964</sys_scope>
+        <sys_update_name>sys_sg_data_item_45c7638bdb6dd410d620a08d139619ba</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-02 16:03:44</sys_updated_on>
+        <table>x_snc_cook_mgmt_cook</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=45c7638bdb6dd410d620a08d139619ba"/>
+</record_update>

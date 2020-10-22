@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Recipe" max_length="40" name="x_snc_cook_mgmt_recipe" sizeclass="5" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Author" max_length="32" name="author" reference="x_snc_cook_mgmt_author" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Cook time" max_length="40" name="cook_time" type="glide_duration"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="4000" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="3" label="Difficulty" max_length="40" name="difficulty" type="integer">
+            <choice>
+                <element inactive_on_update="false" label="Easy" value="1"/>
+                <element inactive_on_update="false" label="Hard" value="5"/>
+                <element inactive_on_update="false" label="Medium" value="3"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Ingredients" max_length="4000" name="ingredients" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Link" max_length="1024" name="link" type="url"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Name" max_length="100" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Prep time" max_length="40" name="prep_time" type="glide_duration"/>
+        <element attributes="edge_encryption_enabled=true" label="Rating" max_length="40" name="rating" type="float"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Source" max_length="32" name="source" reference="x_snc_cook_mgmt_recipe_source" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Total time" max_length="40" name="total_time" type="glide_duration"/>
+        <index name="index">
+            <element name="author"/>
+        </index>
+        <index name="index2">
+            <element name="source"/>
+        </index>
+    </element>
+</database>

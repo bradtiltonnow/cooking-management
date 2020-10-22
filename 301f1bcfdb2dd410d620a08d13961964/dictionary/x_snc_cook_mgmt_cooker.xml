@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Cooker" max_length="40" name="x_snc_cook_mgmt_cooker" sizeclass="2" type="collection">
+        <element label="Fuels" max_length="4000" name="fuels" reference="x_snc_cook_mgmt_fuel" type="glide_list"/>
+        <element display="true" label="Name" max_length="40" name="name" type="string"/>
+        <element choice="1" label="Type" max_length="40" name="type" type="choice">
+            <choice/>
+        </element>
+    </element>
+</database>

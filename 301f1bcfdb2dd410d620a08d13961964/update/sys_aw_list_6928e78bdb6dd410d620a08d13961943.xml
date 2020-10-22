@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_list">
+    <sys_aw_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Cooks">a928e78bdb6dd410d620a08d1396192d</category>
+        <columns>number,priority,state,assigned_to,assignment_group,short_description,opened_at,opened_by,closed_at,closed_by</columns>
+        <condition/>
+        <groups/>
+        <list_attributes/>
+        <order>400</order>
+        <roles/>
+        <sys_class_name>sys_aw_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-26 21:19:50</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6928e78bdb6dd410d620a08d13961943</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Cooking Management" source="x_snc_cook_mgmt">301f1bcfdb2dd410d620a08d13961964</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cooking Management">301f1bcfdb2dd410d620a08d13961964</sys_scope>
+        <sys_update_name>sys_aw_list_6928e78bdb6dd410d620a08d13961943</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-26 21:19:50</sys_updated_on>
+        <table>x_snc_cook_mgmt_cook</table>
+        <title>All</title>
+        <workspace display_value="">ff18678bdb6dd410d620a08d139619b8</workspace>
+    </sys_aw_list>
+</record_update>

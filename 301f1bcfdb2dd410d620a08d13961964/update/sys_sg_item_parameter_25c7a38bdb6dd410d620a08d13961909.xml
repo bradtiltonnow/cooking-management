@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="INSERT_OR_UPDATE">
+        <default_value/>
+        <name>Recipe cook_time</name>
+        <parent>29c7a38bdb6dd410d620a08d13961908</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-26 21:18:11</sys_created_on>
+        <sys_id>25c7a38bdb6dd410d620a08d13961909</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Recipe cook_time</sys_name>
+        <sys_package display_value="Cooking Management" source="x_snc_cook_mgmt">301f1bcfdb2dd410d620a08d13961964</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cooking Management">301f1bcfdb2dd410d620a08d13961964</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_25c7a38bdb6dd410d620a08d13961909</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-26 21:18:11</sys_updated_on>
+        <type>string</type>
+    </sys_sg_item_parameter>
+</record_update>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="DELETE">
+        <applet_launcher display_value="Cooking Management">85c7af4bdb6dd410d620a08d1396199b</applet_launcher>
+        <order/>
+        <section display_value="Fuel">71c7a38bdb6dd410d620a08d1396192c</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-26 21:18:12</sys_created_on>
+        <sys_id>79c7a38bdb6dd410d620a08d1396192c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Cooking Management" source="x_snc_cook_mgmt">301f1bcfdb2dd410d620a08d13961964</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cooking Management">301f1bcfdb2dd410d620a08d13961964</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_79c7a38bdb6dd410d620a08d1396192c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-26 21:18:12</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Cooking Management">301f1bcfdb2dd410d620a08d13961964</application>
+        <file_path/>
+        <instance_id>c82f1306db47b3c007072f17d4961937</instance_id>
+        <instance_name>dev90794</instance_name>
+        <name>sys_sg_applet_launcher_m2m_section_79c7a38bdb6dd410d620a08d1396192c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section"><sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE"><applet_launcher display_value="Cooking Management">85c7af4bdb6dd410d620a08d1396199b</applet_launcher><order/><section display_value="Fuel">71c7a38bdb6dd410d620a08d1396192c</section><sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-26 21:18:12</sys_created_on><sys_id>79c7a38bdb6dd410d620a08d1396192c</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Cooking Management" source="x_snc_cook_mgmt">301f1bcfdb2dd410d620a08d13961964</sys_package><sys_policy/><sys_scope display_value="Cooking Management">301f1bcfdb2dd410d620a08d13961964</sys_scope><sys_update_name>sys_sg_applet_launcher_m2m_section_79c7a38bdb6dd410d620a08d1396192c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-26 21:18:12</sys_updated_on></sys_sg_applet_launcher_m2m_section></record_update>]]></payload>
+        <payload_hash>1126001678</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>3c0a18c51b0294101363ff37dc4bcb10</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-14 21:43:05</sys_created_on>
+        <sys_id>2d1a1cc51b0294101363ff37dc4bcbf9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1734f4800a50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-14 21:43:05</sys_updated_on>
+        <type>Applet Launcher Sections</type>
+        <update_guid>79c7a38bbd6dd4105d0fbeb255387832</update_guid>
+        <update_guid_history>79c7a38bbd6dd4105d0fbeb255387832:1126001678</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-02 15:16:53</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_applet_launcher_m2m_section">sys_sg_applet_launcher_m2m_section</sys_db_object>
+        <sys_id>68221ef1f4c94284ac3d596fbdc08290</sys_id>
+        <sys_metadata>79c7a38bdb6dd410d620a08d1396192c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Cooking Management" source="x_snc_cook_mgmt">301f1bcfdb2dd410d620a08d13961964</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Cooking Management">301f1bcfdb2dd410d620a08d13961964</sys_scope>
+        <sys_scope_delete display_value="">2fa00317548b4c6eab1219ad2aca4324</sys_scope_delete>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_79c7a38bdb6dd410d620a08d1396192c</sys_update_name>
+        <sys_update_version display_value="sys_sg_applet_launcher_m2m_section_79c7a38bdb6dd410d620a08d1396192c">2d1a1cc51b0294101363ff37dc4bcbf9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-02 15:16:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

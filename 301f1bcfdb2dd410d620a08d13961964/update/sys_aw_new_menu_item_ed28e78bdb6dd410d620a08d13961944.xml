@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_new_menu_item">
+    <sys_aw_new_menu_item action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <order>100</order>
+        <sys_class_name>sys_aw_new_menu_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-26 21:19:50</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ed28e78bdb6dd410d620a08d13961944</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_cook_mgmt_cook</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Cooking Management" source="x_snc_cook_mgmt">301f1bcfdb2dd410d620a08d13961964</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cooking Management">301f1bcfdb2dd410d620a08d13961964</sys_scope>
+        <sys_update_name>sys_aw_new_menu_item_ed28e78bdb6dd410d620a08d13961944</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-26 21:19:50</sys_updated_on>
+        <table>x_snc_cook_mgmt_cook</table>
+        <workspace_config display_value="">ff18678bdb6dd410d620a08d139619b8</workspace_config>
+    </sys_aw_new_menu_item>
+</record_update>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="INSERT_OR_UPDATE">
+        <data_item display_value="Cooking Management Active Cooks">45c7638bdb6dd410d620a08d139619ba</data_item>
+        <dependency_fields>cooker-11566,state-3907,short_description-22124,recipe-3091,food-3093,sys_created_on-32753</dependency_fields>
+        <item_view_json>{"Type":"ViewGroup","Margin":{"Top":15,"Bottom":17},"Orientation":"Vertical","Alignment":"Stretch","Distribution":"Auto","Children":[{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Equal","Children":[{"Type":"ViewGroup","Margin":{"Right":12},"Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Children":[{"Type":"Text","studio_template_field_id":"E1","TextColor":"#293e40","TextAlignment":"Left","MaxLines":1,"Font":{"Size":16,"Weight":"bold"},"CellId":"cooker","Id":11566}],"Id":42845},{"Type":"ViewGroup","Margin":{},"Orientation":"Vertical","Alignment":"Right","Distribution":"Auto","Children":[{"Type":"Text","Margin":{},"studio_template_field_id":"E2","TextColor":"#293e40","TextAlignment":"Center","MaxLines":1,"Font":{"Weight":"semibold","Size":13},"CornerRadius":2,"BackgroundColor":"#f1f1f1","Height":21,"Width":128,"CellId":"state","Id":3907}],"Id":42846}],"Id":12259},{"Type":"Text","Margin":{"Top":9},"studio_template_field_id":"E3","TextColor":"#293e40","TextAlignment":"Left","MaxLines":2,"Font":{"Weight":"regular","Size":18},"CellId":"short_description","Id":22124},{"Type":"ViewGroup","Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Children":[{"Type":"ViewGroup","Margin":{"Top":12},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Text","Margin":{"Right":12},"studio_template_field_id":"E4","TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"CellId":"recipe","Id":3091},{"Type":"Text","studio_ignore":true,"Margin":{"Right":12},"TextColor":"#d1d6d8","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular"},"BackgroundColor":"#d1d6d8","Height":12,"Width":1,"Id":3092},{"Type":"Text","Margin":{"Right":12},"studio_template_field_id":"E5","TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"CellId":"food","Id":3093}],"Id":34348},{"Type":"Text","Margin":{"Top":6},"studio_template_field_id":"E6","TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":2,"Font":{"Weight":"regular","Size":13},"CellId":"sys_created_on","Id":32753}],"Id":12261}],"studio_card_id":"132198d123412300a8ed7f4fc7bf65d6","Id":28090}</item_view_json>
+        <name>Cook Detail Screen Item View</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-26 21:18:10</sys_created_on>
+        <sys_id>59c7638bdb6dd410d620a08d139619bb</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Cook Detail Screen Item View</sys_name>
+        <sys_package display_value="Cooking Management" source="x_snc_cook_mgmt">301f1bcfdb2dd410d620a08d13961964</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cooking Management">301f1bcfdb2dd410d620a08d13961964</sys_scope>
+        <sys_update_name>sys_sg_item_view_59c7638bdb6dd410d620a08d139619bb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-02 15:30:57</sys_updated_on>
+        <table>x_snc_cook_mgmt_cook</table>
+        <ui_styles/>
+    </sys_sg_item_view>
+    <sys_translated_text action="delete_multiple" query="documentkey=59c7638bdb6dd410d620a08d139619bb"/>
+</record_update>

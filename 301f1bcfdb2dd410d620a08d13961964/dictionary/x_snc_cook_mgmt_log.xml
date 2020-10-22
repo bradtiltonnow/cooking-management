@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Log" max_length="40" name="x_snc_cook_mgmt_log" sizeclass="27" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Category" max_length="40" name="category" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Brine/Marinate" sequence="0" value="Brine/Marinate"/>
+                <element inactive_on_update="false" label="Started fire" sequence="1" value="Started fire"/>
+                <element inactive_on_update="false" label="Added fuel" sequence="2" value="Added fuel"/>
+                <element inactive_on_update="false" label="Added food" sequence="3" value="Added food"/>
+                <element inactive_on_update="false" label="Wrap" sequence="4" value="Wrap"/>
+                <element inactive_on_update="false" label="Spritz" sequence="5" value="Spritz"/>
+                <element inactive_on_update="false" label="Pulled food" sequence="6" value="Pulled food"/>
+                <element inactive_on_update="false" label="Served food" sequence="7" value="Served food"/>
+                <element inactive_on_update="false" label="Other" sequence="8" value="Other"/>
+            </choice>
+        </element>
+        <element label="Cook" max_length="32" name="cook" reference="x_snc_cook_mgmt_cook" type="reference"/>
+        <element label="Description" max_length="1000" name="description" type="string"/>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;var display = current.category.getDisplayValue() != '' ? current.timestamp + ': ' + current.category.getDisplayValue() : '';&#13;&#10;&#9;return display;  // return the calculated value&#13;&#10;&#13;&#10;})(current);" display="true" label="Display" max_length="100" name="display" read_only="true" type="string" virtual="true"/>
+        <element label="Image" max_length="40" name="image" type="user_image"/>
+        <element label="Timestamp" max_length="40" name="timestamp" type="glide_date_time"/>
+        <index name="index">
+            <element name="cook"/>
+        </index>
+    </element>
+</database>

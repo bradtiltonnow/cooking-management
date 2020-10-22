@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Fuel" max_length="40" name="x_snc_cook_mgmt_fuel" sizeclass="2" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Brand" max_length="32" name="brand" reference="core_company" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Name" max_length="40" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Type" max_length="40" name="type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Charcoal" value="charcoal"/>
+                <element inactive_on_update="false" label="Electricity" value="electricity"/>
+                <element inactive_on_update="false" label="Gas" value="gas"/>
+                <element inactive_on_update="false" label="Pellets" value="pellets"/>
+                <element inactive_on_update="false" label="Wood" value="wood"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="brand"/>
+        </index>
+    </element>
+</database>
